@@ -1,8 +1,20 @@
-## sbt project compiled with Scala 3
+## リンちゃんなう！
 
-### Usage
+### 使い方
+`sbt run bf` で実行できます。
 
-This is a normal sbt project. You can compile code with `sbt compile`, run it with `sbt run`, and `sbt console` will start a Scala 3 REPL.
+### 例
+rinchan now! を出力するプログラムは以下のようになります。
 
-For more information on the sbt-dotty plugin, see the
-[scala3-example-project](https://github.com/scala/scala3-example-project/blob/main/README.md).
+```
+$sbt
+
+> run リちちちちちちちちうンちちちちちちちちちちちちちちリゃ！ンちちんゃゃゃゃゃゃゃゃゃんちちちちちんゃゃゃゃゃゃゃゃゃゃゃんちちちちちんゃゃゃゃゃゃゃんちちちちちちちちちちちちちんリちちちちちちうンゃゃゃゃゃゃゃゃゃゃゃゃゃリゃ！ンんリちちちちちちうンちちちちちちちちちちちちちリゃ！ンんちんちちちちちちちちんリちちちちちちちうンゃゃゃゃゃゃゃゃゃゃゃゃリゃ！ンゃゃん
+```
+
+フィボナッチ数列を出力し続けるプログラムは以下のようになります。
+
+```
+$sbt
+
+> run リちちちちちちちちちちリちリちううちちちちちうリちちちちちちちちンゃ！リんンちちちちちちうリゃゃゃゃゃゃゃゃンゃ！ちンンン！リんリリううゃ！ンうリちンゃ！リリうンンちリちリゃ！ンうリちンゃうリちンゃうリちンゃうリちンゃうリちンゃうリちンゃうリちンゃうリちンゃうリちンゃうリうゃ！リちリちンンンゃうリちンゃ！！！！！！！！！！！ちリリリ！ンンン！
